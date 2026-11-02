@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Illustration of the Whitsundays: swirling white sand and turquoise water with a sailboat and a green headland</title>
+  <rect width="1200" height="700" fill="#2BA3A8"/>
+  <path d="M0 0 H1200 V160 Q900 230 600 180 T0 200Z" fill="#9FD9E0"/>
+  <path d="M-40 260 Q240 180 520 300 T1240 280 V360 Q900 300 620 400 T-40 360Z" fill="#F6F3EA"/>
+  <path d="M-40 430 Q300 360 600 460 T1240 440 V500 Q920 450 620 540 T-40 500Z" fill="#F6F3EA"/>
+  <path d="M-40 590 Q280 530 560 610 T1240 600 V700 H-40Z" fill="#F6F3EA"/>
+  <path d="M0 330 Q260 260 520 340 T1200 320" stroke="#5CC6C9" stroke-width="22" fill="none" opacity=".7"/>
+  <path d="M0 520 Q300 450 600 520 T1200 520" stroke="#1C7F8C" stroke-width="30" fill="none" opacity=".55"/>
+  <path d="M760 0 Q900 60 1010 40 Q1120 30 1200 80 V0Z" fill="#3F7537"/>
+  <path d="M820 0 Q930 40 1040 20 Q1130 10 1200 40 V0Z" fill="#2B5A2C"/>
+  <g transform="translate(360 410)">
+    <path d="M0 40 h120 l-18 22 h-90z" fill="#14262D"/>
+    <path d="M58 -90 v126 h-56z" fill="#FFFFFF"/><path d="M64 -70 v106 h44z" fill="#E8A33D"/>
+    <rect x="58" y="-92" width="5" height="132" fill="#14262D"/>
+  </g>
+</svg>

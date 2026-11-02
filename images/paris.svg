@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Illustration of Paris at dusk: the Eiffel Tower rising above zinc rooftops and chimneys</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2E4A6B"/><stop offset=".6" stop-color="#C97D7A"/><stop offset="1" stop-color="#F2C08A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#sky)"/>
+  <g fill="#FBEFD0"><circle cx="180" cy="110" r="3"/><circle cx="320" cy="70" r="2"/><circle cx="960" cy="90" r="3"/><circle cx="1080" cy="150" r="2"/><circle cx="560" cy="60" r="2"/></g>
+  <g fill="#14262D">
+    <rect x="696" y="40" width="8" height="40"/>
+    <path d="M688 80 h24 l14 150 h-52z"/>
+    <path d="M666 230 h68 v16 h-68z"/>
+    <path d="M674 246 h52 l40 190 h-132z"/>
+    <path d="M620 436 h160 v18 h-160z"/>
+    <path d="M630 454 h140 l70 246 h-60 q-40 -120 -80 -120 q-40 0 -80 120 h-60z"/>
+  </g>
+  <g stroke="#C97D7A" stroke-width="2" opacity=".6" fill="none"><path d="M690 280 l20 30 l-20 30 l20 30 l-20 30 M710 280 l-20 30 l20 30 l-20 30 l20 30"/></g>
+  <g fill="#3A3F52">
+    <path d="M0 560 h120 l20 -40 h120 l20 40 h60 v140 H0Z"/>
+    <path d="M330 590 h80 l16 -30 h100 l16 30 h40 v110 H330Z"/>
+    <path d="M840 580 h100 l18 -36 h110 l18 36 h114 v120 H840Z"/>
+  </g>
+  <g fill="#2A2E3D"><rect x="160" y="490" width="16" height="34"/><rect x="230" y="496" width="12" height="28"/><rect x="460" y="536" width="12" height="26"/><rect x="990" y="514" width="16" height="32"/><rect x="1060" y="520" width="12" height="26"/></g>
+  <g fill="#F2C08A">
+    <rect x="30" y="600" width="16" height="22"/><rect x="80" y="600" width="16" height="22"/><rect x="180" y="580" width="16" height="22"/><rect x="250" y="580" width="16" height="22"/>
+    <rect x="360" y="620" width="14" height="20"/><rect x="430" y="610" width="14" height="20"/><rect x="890" y="610" width="16" height="22"/><rect x="980" y="590" width="16" height="22"/><rect x="1100" y="610" width="16" height="22"/>
+  </g>
+</svg>

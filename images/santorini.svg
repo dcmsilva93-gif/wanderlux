@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Illustration of Santorini: white cliffside houses with blue domes above the Aegean Sea</title>
+  <rect width="1200" height="700" fill="#BFE0EE"/>
+  <circle cx="980" cy="160" r="60" fill="#FBEFD0"/>
+  <rect y="380" width="1200" height="320" fill="#1F5F8B"/>
+  <g stroke="#BFE0EE" stroke-width="3" opacity=".5"><path d="M640 450 h120 M820 500 h160 M700 560 h90 M960 610 h140"/></g>
+  <path d="M0 260 Q140 250 260 300 Q360 330 430 400 Q520 480 560 700 H0Z" fill="#C9A27E"/>
+  <path d="M0 330 Q120 330 220 380 Q330 440 380 540 L420 700 H0Z" fill="#A7805F"/>
+  <g fill="#FFFFFF" stroke="#D9E4EA" stroke-width="2">
+    <rect x="40" y="250" width="90" height="70"/><rect x="140" y="270" width="70" height="60"/><rect x="220" y="300" width="80" height="60"/>
+    <rect x="20" y="340" width="110" height="70"/><rect x="140" y="350" width="90" height="70"/><rect x="240" y="380" width="80" height="70"/>
+    <rect x="60" y="430" width="100" height="70"/><rect x="170" y="440" width="90" height="70"/><rect x="270" y="470" width="90" height="70"/>
+    <rect x="30" y="520" width="120" height="80"/><rect x="160" y="530" width="100" height="80"/><rect x="0" y="610" width="140" height="90"/>
+  </g>
+  <g fill="#2563A8">
+    <path d="M150 270 a30 30 0 0 1 60 0z"/><path d="M60 340 a34 34 0 0 1 68 0z"/><path d="M180 440 a36 36 0 0 1 72 0z"/><path d="M60 520 a40 40 0 0 1 80 0z"/>
+    <rect x="176" y="252" width="8" height="12"/><rect x="90" y="318" width="8" height="12"/>
+  </g>
+  <g fill="#14262D" opacity=".75">
+    <rect x="70" y="280" width="14" height="22"/><rect x="250" y="320" width="14" height="22"/><rect x="170" y="370" width="14" height="22"/>
+    <rect x="90" y="450" width="14" height="22"/><rect x="300" y="490" width="14" height="22"/><rect x="200" y="555" width="14" height="22"/><rect x="60" y="545" width="14" height="22"/>
+  </g>
+  <path d="M780 470 l70 0 l-10 18 h-52z" fill="#FFFFFF"/><path d="M815 400 v68 l36 -6z" fill="#FFFFFF"/>
+</svg>

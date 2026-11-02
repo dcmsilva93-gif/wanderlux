@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Illustration of Queenstown: snow-capped alpine peaks reflected in a calm lake framed by pine trees</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9FC7D6"/><stop offset="1" stop-color="#E3F0EF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#sky)"/>
+  <path d="M0 420 L180 220 L300 330 L470 130 L640 360 L780 200 L960 380 L1080 260 L1200 360 V440 H0Z" fill="#4E6E7D"/>
+  <path d="M180 220 L230 275 L200 268 L170 290 L140 262Z M470 130 L540 225 L500 210 L470 240 L430 205 L410 200Z M780 200 L840 270 L800 258 L770 280 L740 250Z M1080 260 L1130 315 L1095 305 L1060 320Z" fill="#F4FAFA"/>
+  <path d="M0 440 L260 320 L420 400 L620 300 L820 420 L1000 330 L1200 420 V470 H0Z" fill="#33556A"/>
+  <rect y="460" width="1200" height="240" fill="#2F7E8A"/>
+  <path d="M0 460 L260 560 L420 500 L620 590 L820 480 L1000 560 L1200 480 V460Z" fill="#33556A" opacity=".45"/>
+  <g stroke="#CFE6E1" stroke-width="3" opacity=".5"><path d="M500 620 h140 M700 650 h100 M300 670 h120"/></g>
+  <g fill="#1B3B32">
+    <path d="M60 700 L110 470 L160 700Z"/><path d="M130 700 L190 420 L250 700Z"/><path d="M0 700 L40 520 L80 700Z"/>
+    <path d="M1060 700 L1110 450 L1160 700Z"/><path d="M1120 700 L1170 500 L1220 700Z"/><path d="M990 700 L1030 540 L1070 700Z"/>
+  </g>
+  <path d="M560 560 l50 0 l-8 12 h-36z" fill="#E8A33D"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Illustration of Bali: a volcano at sunrise above green rice terraces and a split temple gate</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F6C98B"/><stop offset=".55" stop-color="#F3DDB8"/><stop offset="1" stop-color="#CFE6E1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#sky)"/>
+  <circle cx="840" cy="230" r="78" fill="#E8A33D"/>
+  <path d="M520 420 L760 175 Q790 150 820 175 L1060 420 Z" fill="#7C8F8B"/>
+  <path d="M735 200 L760 175 Q790 150 820 175 L845 200 Q815 215 790 200 Q765 215 735 200Z" fill="#5E716E"/>
+  <path d="M0 430 Q300 360 600 410 T1200 390 V700 H0Z" fill="#9DBF7A"/>
+  <path d="M0 480 Q320 420 620 470 T1200 450 V700 H0Z" fill="#7FAA5C"/>
+  <path d="M0 535 Q300 480 640 528 T1200 510 V700 H0Z" fill="#5F9147"/>
+  <path d="M0 595 Q340 545 660 590 T1200 575 V700 H0Z" fill="#3F7537"/>
+  <path d="M0 650 Q360 610 700 648 T1200 640 V700 H0Z" fill="#2B5A2C"/>
+  <g stroke="#CFE6E1" stroke-width="2" fill="none" opacity=".55">
+    <path d="M0 482 Q320 422 620 472 T1200 452"/><path d="M0 537 Q300 482 640 530 T1200 512"/><path d="M0 597 Q340 547 660 592 T1200 577"/>
+  </g>
+  <g fill="#14262D" transform="translate(800 0)">
+    <path d="M170 640 V420 l14 -18 v-22 l12 -14 v-26 l10 -12 v-30 l14 -20 v222Z"/>
+    <path d="M292 640 V420 l-14 -18 v-22 l-12 -14 v-26 l-10 -12 v-30 l-14 -20 v222Z"/>
+    <rect x="150" y="630" width="162" height="14"/>
+  </g>
+  <g fill="#2B5A2C" transform="translate(-380 20)">
+    <path d="M1010 640 q6 -120 10 -190 q2 120 6 190z"/><path d="M1020 452 q-60 -10 -90 20 q50 -14 90 -16 q-40 -30 -80 -26 q50 4 82 22 q10 -40 50 -56 q-46 18 -56 52 q34 -30 84 -22 q-50 6 -80 28 q50 -4 82 22 q-40 -20 -86 -24z"/>
+  </g>
+</svg>
